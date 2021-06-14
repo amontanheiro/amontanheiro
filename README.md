@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amontanheiro
 - 👀 I’m interested in IT Networking
-- 🌱 I’m currently learning CCNA 200-301
+- 🔝 In June 2021 I earned the Cisco CCNA 200-301 Certification
+- 🌱 I’m currently learning L-PIC 1
 - 💞️ I’m looking to collaborate on automotive industry projetcts
 - 📫 How to reach me ...
 
