@@ -3,7 +3,7 @@
 - 🚘 I am currently learning L-PIC 1.
 - 🔝 In June 2021 I earned the Cisco CCNA 200-301 Certification
 - 🚀 In February 2021 I earned a Microsoft Azure Certification 
--- 💞️ I’m looking to collaborate on automotive industry projetcts
+- 🚁 I’m looking to collaborate on automotive industry projetcts
 - 📫 How to reach me ...
 
 <!---
