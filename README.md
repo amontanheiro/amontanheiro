@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @amontanheiro
-- 👀 I’m a DevOps Engineer
+- 👀 I am a DevOps Engineer
+- 🚘 I am currently learning L-PIC 1.
 - 🔝 In June 2021 I earned the Cisco CCNA 200-301 Certification
-- 🌱 I’m currently learning L-PIC 1.
-- 💞️ I’m looking to collaborate on automotive industry projetcts
+- 🚀 In February 2021 I earned a Microsoft Azure Certification 
+-- 💞️ I’m looking to collaborate on automotive industry projetcts
 - 📫 How to reach me ...
 
 <!---
