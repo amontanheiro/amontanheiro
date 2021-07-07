@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amontanheiro
-- 👀 I’m interested in IT Networking
+- 👀 I’m a DevOps Engineer
 - 🔝 In June 2021 I earned the Cisco CCNA 200-301 Certification
-- 🌱 I’m currently learning L-PIC 1. 13 Days for the D day.
+- 🌱 I’m currently learning L-PIC 1.
 - 💞️ I’m looking to collaborate on automotive industry projetcts
 - 📫 How to reach me ...
 
