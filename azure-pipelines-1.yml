@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool:
+pool: Adrianos-iMac
   vmImage: ubuntu-latest
 
 variables:
