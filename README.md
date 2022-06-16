@@ -1,9 +1,14 @@
 - 👋 Hi, I’m @amontanheiro
-- 👀 I am a DevOps Engineer
-- 🚘 I am currently learning new things.
-- 🔝 In June 2021 I earned the Cisco CCNA 200-301 Certification
+- 👀 I am a Systems Engineer and a Peacemaker
+- 🚘 I am currently and always learning new things.
 - 🚀 In February 2021 I earned a Microsoft Azure Certification 
-- 🚁 hobbies: Many
+- 🔝 In June 2021 I earned the Cisco CCNA 200-301 Certification
+- 🚀 In April 2022 I got THE job at an Amazing German Company 
+- 🙌🏻 In April 2022 I earned The LPIC-1 Linux Certification
+
+- 🚁 hobbies: I ride my Gravel Bike 50 km every day. I do Calesthenics
+
+
 - 📫 How to reach me ...
 
 <!---
